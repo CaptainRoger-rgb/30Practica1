@@ -36,7 +36,7 @@ namespace _30Practica1
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text = "0.0";
-            textBox2.Text = "0.0";
+            textBox2.Text = "00.0";
         }
     }
 }
